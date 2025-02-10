@@ -34,11 +34,11 @@ Nous vous proposons la structure suivante mais vous pouvez l'adapter selon vos p
 ```
 /src
   /components
-    - Home.js
-    - Quiz.js
-    - Question.js
-    - Result.js
-  App.js
+    - Home.jsx
+    - Quiz.jsx
+    - Question.jsx
+    - Result.jsx
+  App.jsx
   index.js
 ```
 
