@@ -2,7 +2,7 @@
 
 Bonjour,
 
-Je suis CEO d'une entreprise de divertissement et nous avons comme projet de développer un jeu de type quzz compétitif. Nous recherchons une équipe de développeur pour réaliser un Proof of concept (POC), c'est-à-dire un projet reprennant les mécaniques principales, pour voir si cela est réalisable et fonctionnel selon nos enjeux.
+Je suis CEO d'une entreprise de divertissement et nous avons comme projet de développer un jeu de type quizz compétitif. Nous recherchons une équipe de développeurs pour réaliser un Proof of concept (POC), c'est-à-dire un projet reprennant les mécaniques principales, pour voir si cela est réalisable et fonctionnel selon nos enjeux.
 
 Les compétences attendues pour cette mission sont :
 
